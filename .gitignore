@@ -1,0 +1,6 @@
+.env
+new_account.json
+old_account.json
+_pycache_
+__pycache__/post.cpython-39.pyc
+__pycache__/youtube_cli.cpython-39.pyc
